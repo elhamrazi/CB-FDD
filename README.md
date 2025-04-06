@@ -3,7 +3,7 @@
 Course project for EECS6320 Fairness and Bias in AI.   
 Contributors: Aiza Bajwa, Katherine Ling, Elham Razi.  
 
-This project is based on FairDeDup method proposed in this <a href="FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication">paper</a>
+This project is based on FairDeDup method proposed in this <a href="https://arxiv.org/abs/2404.16123">paper</a>
 
 Please find the main work in the `notebooks` folder.
 
